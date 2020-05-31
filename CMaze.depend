@@ -1,0 +1,146 @@
+# depslib dependency file v1.0
+1491400450 source:c:\users\chorche\desktop\cubic maze\cmaze\gotoxy.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+
+1560890638 source:c:\users\chorche\desktop\cubic maze\cmaze\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<windows.h>
+	<conio.h>
+	<math.h>
+	<strings.h>
+	<unistd.h>
+	<ctype.h>
+	"gotoxy.h"
+
+1491399896 c:\users\chorche\desktop\cubic maze\cmaze\gotoxy.h
+
+1491400450 source:f:\escritorio\cubic maze 1.0\cubic maze\cmaze\gotoxy.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+
+1561242165 source:f:\escritorio\cubic maze 1.0\cubic maze\cmaze\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<windows.h>
+	<conio.h>
+	<math.h>
+	<strings.h>
+	<unistd.h>
+	<ctype.h>
+	"gotoxy.h"
+
+1491399896 f:\escritorio\cubic maze 1.0\cubic maze\cmaze\gotoxy.h
+
+1560018809 source:f:\escritorio\cubic maze 1.0\cubic maze\cmaze\icon.rc
+
+1491400450 source:c:\users\chorche\desktop\cubic maze 1.0\gotoxy.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+
+1560018810 source:c:\users\chorche\desktop\cubic maze 1.0\icon.rc
+
+1561384260 source:c:\users\chorche\desktop\cubic maze 1.0\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<windows.h>
+	<conio.h>
+	<math.h>
+	<strings.h>
+	<unistd.h>
+	<ctype.h>
+	"gotoxy.h"
+
+1491399896 c:\users\chorche\desktop\cubic maze 1.0\gotoxy.h
+
+1491400450 source:c:\users\chorche\desktop\cubic maze 1.0\cubic maze\gotoxy.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+
+1560018810 source:c:\users\chorche\desktop\cubic maze 1.0\cubic maze\icon.rc
+
+1491400450 source:f:\escritorio\cubic maze 1.0\cubic maze 1.0\cubic maze\gotoxy.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+
+1560018810 source:f:\escritorio\cubic maze 1.0\cubic maze 1.0\cubic maze\icon.rc
+
+1561422620 source:f:\escritorio\cubic maze 1.0\cubic maze 1.0\cubic maze\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<windows.h>
+	<conio.h>
+	<math.h>
+	<strings.h>
+	<unistd.h>
+	<ctype.h>
+	"gotoxy.h"
+
+1491399896 f:\escritorio\cubic maze 1.0\cubic maze 1.0\cubic maze\gotoxy.h
+
+1491400450 source:c:\users\chorche\desktop\uu\cubic maze 1.0\cubic maze 1.0\cubic maze\gotoxy.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+
+1560018810 source:c:\users\chorche\desktop\uu\cubic maze 1.0\cubic maze 1.0\cubic maze\icon.rc
+
+1561476098 source:c:\users\chorche\desktop\uu\cubic maze 1.0\cubic maze 1.0\cubic maze\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<windows.h>
+	<conio.h>
+	<math.h>
+	<strings.h>
+	<unistd.h>
+	<ctype.h>
+	"gotoxy.h"
+
+1491399896 c:\users\chorche\desktop\uu\cubic maze 1.0\cubic maze 1.0\cubic maze\gotoxy.h
+
+1561490861 source:c:\users\chorche\desktop\cubic maze 1.0\cubic maze\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<windows.h>
+	<conio.h>
+	<math.h>
+	<strings.h>
+	<unistd.h>
+	<ctype.h>
+	"gotoxy.h"
+
+1491399896 c:\users\chorche\desktop\cubic maze 1.0\cubic maze\gotoxy.h
+
+1491400450 source:c:\users\chorche\desktop\cubic maze\cubic maze 1.0\cubic maze\gotoxy.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+
+1560018810 source:c:\users\chorche\desktop\cubic maze\cubic maze 1.0\cubic maze\icon.rc
+
+1561551304 source:c:\users\chorche\desktop\cubic maze\cubic maze 1.0\cubic maze\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<windows.h>
+	<conio.h>
+	<math.h>
+	<strings.h>
+	<unistd.h>
+	<ctype.h>
+	"gotoxy.h"
+
+1491399896 c:\users\chorche\desktop\cubic maze\cubic maze 1.0\cubic maze\gotoxy.h
+
