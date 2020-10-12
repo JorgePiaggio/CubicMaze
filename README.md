@@ -1,7 +1,8 @@
 # CubicMaze
-First Project made in C language for Programacion 1, at UTN, in collaboration with @[Maxi](https://github.com/maxi2991)
+First Project made in C language for Programacion 1, at UTN, in collaboration with @[Maxi](https://github.com/maxi2991).
 
 # 
+[![UTN:MdP](https://img.shields.io/badge/UTN-MdP-blue.svg)](http://mdp.utn.edu.ar/)
 
 ## Description
 
